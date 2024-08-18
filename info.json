@@ -1,0 +1,9 @@
+{
+  "name": "sciencepackbonanza",
+  "version": "1.0.0",
+  "factorio_version": "1.1",
+  "title": "Science Pack Bonanza",
+  "author": "Serotonintheft",
+  "description": "Adds 20 new science packs with complex recipes, to shake up your playthrough a bit!",
+  "dependencies": ["base >= 1.1.0"]
+}
